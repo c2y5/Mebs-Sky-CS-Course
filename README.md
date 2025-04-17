@@ -6,7 +6,18 @@
 git clone https://github.com/c2y5/Mebs-Sky-CS-Course
 cd Mebs-Sky-CS-Course
 ```
-4. Run the program
+
+### `rpc.py`
+This script is a basic rock paper scissors game
+To play the game, run the following command:
 ```bash
 python rpc.py
 ```
+## Dependencies
+
+This project requires Python 3.x
+
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
