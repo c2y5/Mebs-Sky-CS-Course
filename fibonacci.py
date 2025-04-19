@@ -1,7 +1,6 @@
 from colorama import Fore
 import time
 import sys
-import random
 
 menuT = Fore.CYAN + """
 ███╗   ███╗███████╗███╗   ██╗██╗   ██╗
